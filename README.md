@@ -8,7 +8,8 @@
 * Machine Learning
 * Deep Learning
 * Natural Language Processing 
-* Computer vision 
+* Computer vision
+* Generative AI
 
 
 
