@@ -1,6 +1,22 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Piyush 😀</h1>
-<h4 align="center">A passionate Data Scientist and ML Engineer</h4>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle;" />
+  Hey there! Nice to see you.
+</h1>
+
+<h1 align="center">I'm <span style="color:#00bfff;">Piyush</span> 😄</h1>
+
+<h3 align="center">
+  🚀 Passionate AI Scientist & Machine Learning Engineer <br/>
+  🧠 Turning data into actionable insights and intelligent systems
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/ML-%23FF6F00.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%2300c853?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-%230080ff?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
 
 
 
