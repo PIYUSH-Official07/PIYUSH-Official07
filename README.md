@@ -1,21 +1,39 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle;" />
-  Hey there! Nice to see you.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+  <strong>Hey there! Nice to see you.</strong>
 </h1>
 
-<h1 align="center">I'm <span style="color:#00bfff;">Piyush</span> 😄</h1>
+<h2 align="center">
+  I'm <span style="color:#00bfff;"><strong>Piyush</strong></span> 😄
+</h2>
 
 <h3 align="center">
-  🚀 Passionate AI Scientist & Machine Learning Engineer <br/>
-  🧠 Turning data into actionable insights and intelligent systems
+  🚀 AI Scientist & Machine Learning Engineer <br/>
+  🧠 Turning complex data into smart, scalable solutions
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/ML-%23FF6F00.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-%2300c853?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-%230080ff?style=for-the-badge&logo=openai&logoColor=white"/>
+  <em>Passionate about bridging the gap between research and real-world applications using AI and ML.</em>
 </p>
+
+<hr style="width:60%; border: 0.5px solid #ccc;"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 
 
 
